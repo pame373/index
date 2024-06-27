@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #364;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#señalamientos {
+   
+}
+
+#aparatos {
+    background-color: #F39C12  ; /* Color azul claro */
+     text-align: center
+}
+
+#groserias {
+    background-color: #2980B9 ; /* Color amarillo claro */
+     text-align: center
+}
+
+#levantar {
+    background-color: #5499C7; /* Color naranja claro */
+     text-align: center
+}
+
+#comer {
+    background-color: #1ABC9C; /* Color naranja claro */
+     text-align: center
+}
+
+#silencio {
+    background-color: #EB984E; /* Color verde claro */
+     text-align: center
+}
+
+#participar {
+    background-color: #52BE80 ; /* Color naranja claro */
+     text-align: center
+}
+
+#puntual {
+    background-color: #E67E22; /* Color naranja claro */
+     text-align: center
+}
+
+#profesor {
+    background-color: #F1948A ; /* Color naranja claro */
+     text-align: center
+}
+
+#limpio {
+    background-color: #28B463 ; /* Color naranja claro */
+     text-align: center
+}
+
+#uniforme {
+    background-color: #EC7063; /* Color naranja claro */
+     text-align: center
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
+}
