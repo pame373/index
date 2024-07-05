@@ -32,57 +32,53 @@ section {
    
 }
 
-#aparatos {
+#Doble {
     background-color: #F39C12  ; /* Color azul claro */
      text-align: center
 }
 
-#groserias {
+#sinuosa {
     background-color: #2980B9 ; /* Color amarillo claro */
      text-align: center
 }
 
-#levantar {
+#derecha {
     background-color: #5499C7; /* Color naranja claro */
      text-align: center
 }
 
-#comer {
+#izquierda {
     background-color: #1ABC9C; /* Color naranja claro */
      text-align: center
 }
 
-#silencio {
+#direcciones {
     background-color: #EB984E; /* Color verde claro */
      text-align: center
 }
 
-#participar {
+#curva {
     background-color: #52BE80 ; /* Color naranja claro */
      text-align: center
 }
 
-#puntual {
+#estacionarse {
     background-color: #E67E22; /* Color naranja claro */
      text-align: center
 }
 
-#profesor {
+#velocidad {
     background-color: #F1948A ; /* Color naranja claro */
      text-align: center
 }
 
-#limpio {
+#paso {
     background-color: #28B463 ; /* Color naranja claro */
      text-align: center
 }
 
-#uniforme {
+#carril {
     background-color: #EC7063; /* Color naranja claro */
-     text-align: center
-}
-#integrantes {
-    background-color: #F7DC6F; /* Color naranja claro */
      text-align: center
 }
 
